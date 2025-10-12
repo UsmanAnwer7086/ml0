@@ -12,10 +12,10 @@ model = joblib.load(os.path.join(MODEL_DIR, "house_price_model.pkl"))
 feature_list = joblib.load(os.path.join(MODEL_DIR, "model_features.pkl"))  # ordered
 label_encoders = joblib.load(os.path.join(MODEL_DIR, "label_encoders.pkl"))
 feature_field_map = joblib.load(os.path.join(MODEL_DIR, "feature_field_map.pkl"))
-print("Hello World, This is Hacker 01")
-print("Hello World Again, This is Hacker 01")
-print("Hello world Again, Another big contribution from developer 1")
-print("Hello World, This line is added by developer 1")
+print("Hello World, This is Hacker 01 again")
+print("Hello World Again, This is Hacker 01 again")
+print("Hello world Again, Another big contribution from developer 1 again")
+print("Hello World, This line is added by developer 1 again")
 # build metadata for template
 feature_meta = []
 for feat in feature_list:
