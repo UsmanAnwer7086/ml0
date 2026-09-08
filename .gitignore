@@ -7,3 +7,4 @@ s3/
 # Environment variable. 
 git_dvc/
 
+/data
