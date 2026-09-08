@@ -1,7 +1,5 @@
 # Model folders
 models/
-# Data Folder
-data/
 # s3 source folder
 s3/
 # Environment variable. 
